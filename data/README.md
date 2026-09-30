@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Indonesia Medical Q&A` |
+| Sumber | `[https://huggingface.co/datasets/abid/indonesia-medical-qna]` |
+| Lisensi/ketentuan pakai | `Unspecified / Other (Tidak dideklarasikan secara eksplisit di repositori). Namun, karena bersumber dari teknik web scraping pada platform konsultasi kesehatan (seperti Alodokter), secara hukum datanya terikat Hak Cipta milik platform asal. Penggunaan publik disarankan hanya terbatas untuk Riset Akademis / Non-Komersial.` |
+| Ukuran | `qna.csv ±2,83 GB; 681.203 baris. Memenuhi syarat tugas karena ukuran dataset >500 MB.` |
+| Periode data | `	Sekitar tahun 2017 – 2020 (Selaras dengan penarikan korpus medis berbasis data Alodokter yang dikompilasi oleh kreator pada lini proyek penelitian tersebut).` |
+| Unit analisis | `	Teks interaksi Tanya-Jawab (Q&A) Medis bahasa Indonesia yang terdiri dari keluhan/pertanyaan kesehatan pasien (patient query) dan teks jawaban penjelasan resmi dari dokter (doctor response).` |
 
 ## Tempat Mencari Dataset
 
