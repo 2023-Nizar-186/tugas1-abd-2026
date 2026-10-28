@@ -229,8 +229,8 @@ Buka JupyterLab pada `http://localhost:8888/lab`. Konfigurasi Dockerfile menjala
 
 Isi bagian ini sebelum pengumpulan akhir.
 
-> Alat AI yang digunakan: [nama alat].
+> Alat AI yang digunakan: [ChatGPT].
 >
-> Bagian yang dibantu: [contoh: penjelasan error Polars atau review dokumentasi].
+> Bagian yang dibantu: [Pembuatan kode program].
 >
-> Verifikasi yang dilakukan: [contoh: menjalankan ulang kode, memeriksa dokumentasi resmi, dan memahami setiap cell].
+> Verifikasi yang dilakukan: [Memastikan input dan output program serta melakukan validasi ulang].
